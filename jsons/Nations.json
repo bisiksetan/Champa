@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Champa",
+		"leaderName": "Jaya Prakasadharma",
+		"adjective": ["Champa"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -27,12 +27,11 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"favoredReligion": "Hinduism",
+		"uniqueName": "Overseer of the sea",
+		"outerColor": [255,155,40],
+		"innerColor": [203,35,0],
+		"uniques": ["Free [Great Merchant] appears <upon founding a Religion>"], ["[+1 Gold] from [Luxury resource] in [all coastal cities]"], ["[+1 Culture] per every [3] [Science]"],
+		"cities": ["Indrapura", "Vijaya", "My Son", "Simhapura", "Panrang", "Kauthara", "Virapura"],
 	}
 ]
