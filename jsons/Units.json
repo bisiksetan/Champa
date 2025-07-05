@@ -1,17 +1,33 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Sampan",
+		"unitType": "Melee Water",
+		"uniqueTo": "Champa",
+		"movement": 5,
+		"strength": 4,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit",
+		 "civilopediaText": [
+			{"text": "This is a scout in the sea, fast and lightweight."}
+		]
+	}
+	{
+		"name": "Elephant Archer",
+		"unitType": "Archery",
+		"uniqueTo": "Champa",
+		"replaces": "Chariot Archer",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"strength": 10,
+		"rangedStrength": 13,
+		"cost": 60,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", "Can move after attacking"],
+		"attackSound": "elephant",
 	}
 ]
