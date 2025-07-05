@@ -32,7 +32,7 @@
 		"outerColor": [255,155,40],
 		"innerColor": [63,96,0],
 		"uniques": ["Free [Great Merchant] appears <upon founding a Religion>",
-			"[+10]% [Luxury] resource production [in all coastal cities]",
+			"[+10]% [Luxury] resource production",
 			"[+1 Culture] per every [3] [Science]"],
 		"cities": ["Indrapura", "Vijaya", "My Son", "Simhapura", "Panrang", "Kauthara", "Virapura"],
 	}
