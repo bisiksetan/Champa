@@ -8,7 +8,7 @@
 		"culture": 3,
 		"maintenance": 2,
 		"hurryCostModifier": 40,
-		"uniques": ["[-20]% construction time for [mine] improvements"],
+		"uniques": ["[+1 Culture] from every [Farm] tiles [in this city]"],
 		"requiredTech": "Pottery",
 	}
 ]
