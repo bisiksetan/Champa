@@ -30,9 +30,9 @@
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Overseer of the sea",
 		"outerColor": [255,155,40],
-		"innerColor": [203,35,0],
+		"innerColor": [63,96,0],
 		"uniques": ["Free [Great Merchant] appears <upon founding a Religion>",
-			"[+1 Gold] from [Luxury resource]",
+			"[+10]% [Luxury] resource production [in all coastal cities]",
 			"[+1 Culture] per every [3] [Science]"],
 		"cities": ["Indrapura", "Vijaya", "My Son", "Simhapura", "Panrang", "Kauthara", "Virapura"],
 	}
