@@ -8,7 +8,6 @@
 		"culture": 3,
 		"maintenance": 2,
 		"hurryCostModifier": 40,
-		"uniques": ["[+1 Culture] from every [Farm] tiles"],
 		"requiredTech": "Pottery",
 	}
 ]
